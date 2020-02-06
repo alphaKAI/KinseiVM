@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/kinseivm
+kinseivm.so
+kinseivm.dylib
+kinseivm.dll
+kinseivm.a
+kinseivm.lib
+kinseivm-test-*
+*.exe
+*.o
+*.obj
+*.lst

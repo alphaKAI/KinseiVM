@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"alphakai"
+	],
+	"copyright": "Copyright © 2020, alphakai",
+	"description": "A VM of Kinsei Processor",
+	"license": "MIT",
+	"name": "kinseivm"
+}
